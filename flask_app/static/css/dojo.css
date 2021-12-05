@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+body>div {
+    margin-left: 5%;
+}
+body div {
+    margin-right: 25%;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
